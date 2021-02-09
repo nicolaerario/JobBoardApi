@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     "rest_framework",
     # Local apps
     "jobs.apps.JobsConfig",
+    "api.apps.ApiConfig",
 ]
 
 MIDDLEWARE = [
