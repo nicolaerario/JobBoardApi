@@ -43,6 +43,8 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     # 3rd party apps
     "rest_framework",
+    # Local apps
+    "jobs.apps.JobsConfig",
 ]
 
 MIDDLEWARE = [
