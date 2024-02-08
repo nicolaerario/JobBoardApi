@@ -4,7 +4,7 @@ black==20.8b1
 click==7.1.2
 dj-database-url==0.5.0
 dj-email-url==1.0.2
-Django==3.1.14
+Django==3.2.24
 django-cache-url==3.2.2
 djangorestframework==3.12.2
 environs==9.3.1
